@@ -1,0 +1,245 @@
+.jumbotron{
+    height: 100px;
+    padding-top: 10px;
+    background-image: linear-gradient(to bottom right, green , #2b86c5);
+}
+.mainhead{
+    margin-left: 130px;
+    font-size: 38px;
+}
+.lead{
+    margin-left: 220px;
+    
+}
+.govlogo{
+    margin-left: 30px;
+    height: 85px;
+    width: 90px;
+}
+.pmpic{
+    margin-left: 100px;
+    height: 85px;
+    width: 90px;
+}
+.c1{
+    margin-left: 60px;
+    margin-top: 0px;
+    height: 180px;
+    border-color: darkgreen;
+    background-image: url("./images/farner2.jpg");
+    background-size: inherit;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card-title1{
+    font-size: 20px;
+}
+.card-text1{
+    font-size: 12px;
+    opacity: 2.0;
+}
+.reg{
+    margin-left: 10px;
+}
+.log{
+    margin-left: 10px;
+}
+.c2{
+    margin-left: 60px;
+    margin-top: 25px;
+    height: 150px;
+    border-color: darkgreen;
+    background-color:#FF9933 ;
+}
+.card-title2{
+    color: black;
+}
+.agrno{
+    color: black;
+    
+}
+.argcont{
+    margin-left: 60px;
+    border-color: lightgreen;
+    height: 150px;
+    overflow-y: scroll;
+    width: 775px;
+    background-color: #FF9933;
+}
+#myInput {
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 60px;
+    border: 1px solid #ddd;
+    
+  }
+.c4{
+    margin-left: 60px;
+    margin-top: 25px;
+    height: 150px; 
+    border-color: darkgreen;
+    background-image: linear-gradient(to right, #ffffff , #ADD8E6,#ffffff );
+}
+.econt{
+    margin-left: 60px;
+    height: 150px;
+    overflow-y: scroll;
+    width: 775px;
+    border-color: lightgreen;
+    background-image: linear-gradient(to right, #ffffff , #ADD8E6,#ffffff );
+}
+#ecomin{
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 60px;
+    border: 1px solid #ddd;
+    
+  }
+.card-title4{
+    color: black;
+}
+.eno{
+    color: black
+}
+.c5{
+    margin-left: 60px;
+    margin-top: 25px;
+    height: 150px; 
+    border-color: darkgreen;
+    background-color: #00FA9A;
+}
+.farcont{
+   margin-left: 60px;
+   height: 150px;
+   width: 775px;
+   overflow-y: scroll; 
+   border-color: lightgreen;
+   background-color: #00FA9A;
+}
+#farin{
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 60px;
+    border: 1px solid #ddd;
+    
+}
+.faricon{
+    width: 30px;
+    height: 30px;
+}
+.card-title5{
+    color: black;
+}
+.farno{
+    color: black
+}
+.foots{
+    margin-left: 180px;
+    margin-top: 30px;
+    width: 400px;
+    border-color: black;
+    background-color: beige;
+}
+.footer{
+    margin-top: 80px;
+    background-image: url("./images/footerimg.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    
+  height: 250px;
+}
+.footbod{
+    margin-left: 20px;
+}
+.cont{
+    margin-left: 100px;
+}
+.c7{
+    height: 180px;
+    margin-left: 60px;
+    width: 300px;
+    background-image: url("./images/agritech.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.c8{
+    height: 180px;
+    margin-left: 20px;
+    width: 300px;
+    background-image: url("./images/fert.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width:768px){
+
+
+    .mainhead{
+        margin-left: 55px;
+    font-size: 18px;
+    }
+    .lead{
+        margin-left: 60px;
+        font-size: 11px;
+    }
+    .govlogo{
+        margin-left: 10px;
+        height: 85px;
+        width: 90px;
+    }
+    .pmpic{
+        margin-left: 50px;
+        height: 85px;
+        width: 90px;
+    }
+    .c1{
+        margin-left: 10px;
+        margin-top: 0px;
+        height: 180px;
+        
+    }
+    .reg{
+        margin-left: 20px;
+    }
+    .log{
+        margin-left: 10px;
+    }
+    .c2{
+        margin-left: 10px;
+    }
+    .argcont{
+        width: 95%;
+        margin-left: 10px;
+    }
+    #myInput{
+        width: 95%;
+        margin-left: 10px; 
+    }
+    .c4{
+        margin-left: 10px;
+    }
+    .econt{
+        width: 95%;
+        margin-left: 10px;
+    }
+    #ecomin{
+        width: 95%;
+        margin-left: 10px; 
+    }
+    .c5{
+        margin-left: 10px;
+    }
+    .farcont{
+        width: 95%;
+        margin-left: 10px;
+    }
+    #farin{
+        width: 95%;
+        margin-left: 10px; 
+    }
+    .foots{
+        margin-left: 30px;
+    }
+}
